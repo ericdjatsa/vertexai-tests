@@ -20,3 +20,8 @@
 - Original: https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/workbench/inventory-prediction/inventory_prediction.ipynb
 - Modifications: 
     - What If Tool is deprecated
+ 
+### 4. BQML_XGBoost_Churn_Propensity.ipynb
+- Original: https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/quests/vertex-ai/vertex-bqml/lab_exercise.ipynb
+- Modifications:
+    - Added cell execution output 
